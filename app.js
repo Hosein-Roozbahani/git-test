@@ -10,5 +10,5 @@ const undo = () => {
 const userName = 'Sander';
 const userAge = 22;
 const test = () => {
-    return false;
+    return true;
 }
